@@ -1,0 +1,17 @@
+{
+  "name": "fn",
+  "version": "1.0.0",
+  "description": "this is for testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "promise": "^8.1.0",
+    "underscore": "^1.13.1"
+  }
+}
